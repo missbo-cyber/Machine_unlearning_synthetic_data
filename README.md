@@ -1,2 +1,2 @@
-# Machine_unlearning_synthetic_data
-Machine unlearning approach using synthetic Titanic dataset
+# Machine_learning_synthetic_data
+Creating synthethic Titanic dataset 
